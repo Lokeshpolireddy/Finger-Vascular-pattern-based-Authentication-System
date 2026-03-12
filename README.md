@@ -32,10 +32,10 @@ The model relies entirely on **Classification** (Softmax) for verification, taki
    - Adjust `USE_SDUMLA=True/False` to toggle between the SDUMLA and MMCBNU databases within the second code cell of the notebook.
 
 ## Usage
-The entire workflow is self-contained within the `finger_vein_classification.ipynb` notebook.
+The entire workflow is self-contained within the `finger_vein_authentication_resnet18.ipynb` notebook.
 - Open the notebook using Jupyter:
   ```bash
-  jupyter notebook finger_vein_classification.ipynb
+  jupyter notebook finger_vein_authentication_resnet18.ipynb
   ```
 - Run the cells sequentially to build the dataset, instantiate the ResNet-18 model, train for 10 epochs, and evaluate the final test metrics.
 
