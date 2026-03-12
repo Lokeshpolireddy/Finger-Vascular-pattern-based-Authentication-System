@@ -1,0 +1,11 @@
+numpy
+opencv-python-headless
+tqdm
+torch
+torchvision
+scikit-learn
+scipy
+Pillow
+matplotlib
+seaborn
+jupyter
